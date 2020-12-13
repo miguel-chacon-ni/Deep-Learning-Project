@@ -1,5 +1,3 @@
-<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
-
 # A Pink Solution for a Cookie Problem? <br> 
 
 # Prize-Winning Project for IronHack's Machine Learning Competition
